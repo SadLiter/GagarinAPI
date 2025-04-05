@@ -14,7 +14,7 @@ GagarinAPI is a simple API providing facts about Yuri Gagarin, the first human i
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/GagarinAPI.git
+   git clone https://github.com/SadLiter/GagarinAPI.git
    cd GagarinAPI
    ```
 
